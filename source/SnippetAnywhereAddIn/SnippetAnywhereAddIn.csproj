@@ -118,6 +118,7 @@
     <Content Include="..\..\..\Users\jim\Documents\Visual Studio 2012\Addins\SnippetAnywhereAddIn - For Testing.AddIn">
       <Link>SnippetAnywhereAddIn - For Testing.AddIn</Link>
     </Content>
+    <Content Include="ReadMe.txt" />
     <Content Include="SnippetAnywhereAddIn.AddIn" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSHARP.Targets" />
